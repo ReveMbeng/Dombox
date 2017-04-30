@@ -1,6 +1,6 @@
 [{
         "title": "La vie est belle",
-        "image": "http://api.androidhive.info/json/movies/1.jpg",
+        "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/la_vie_est%20belle.jpg",
         "rating": 8.3,
         "releaseYear": 2014,
         "genre": ["Eau de Parfum", "100ml", "83£"]
