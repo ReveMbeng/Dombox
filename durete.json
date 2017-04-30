@@ -2,20 +2,20 @@
         "title": "La vie est belle",
         "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/la_vie_est%20belle.jpg",
         "rating": 8.3,
-        "releaseYear": 2014,
+        "releaseYear": 2017,
         "genre": ["Eau de Parfum", "100ml", "83£"]
     },
     {
         "title": "La nuit Trésor",
-        "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/la_vie_est%20belle.jpg",
+        "image": "https://github.com/ReveMbeng/Dombox/blob/master/tresor.jpg",
         "rating": 8,
-        "releaseYear": 2009,
+        "releaseYear": 2017,
         "genre": ["Eau de Parfum", "50ml", "60£"]
     },
     {
         "title": "Trésor Midnight Rose",
         "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/lancome.jpg",
         "rating": 8.2,
-        "releaseYear": 2010,
+        "releaseYear": 2017,
         "genre": ["Eau de parfum", "100ml", "83£"]
     }]
