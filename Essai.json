@@ -3,8 +3,12 @@
 	"email" : "ravi8x@gmail.com",
 	"image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/tresor.jpg",
 	"phone" : {
-		"home" : "08947 000000",
-		"mobile" : "9999999999"
+		"home" : "20% OFF whisky of the month",
+		"home2" : "10% OFF Organic Olive Oil",
+		"home3": "30% OFF High-end Soap",
+		"prix" : "Now 54$",
+		"prix1": "Now 18$",
+		"prix2": "Now 12"
 	}
 	
 }
