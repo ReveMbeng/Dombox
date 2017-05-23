@@ -1,0 +1,20 @@
+{
+	"Title" : "Welcome to Metis,awesome to see you today! Please select your daily offer to get a coupn in your inbox", 
+	"Mail" : "You sent you a gift in your inbox",
+	"images" : {
+		"image_whisky" : "",
+		"image_oil" : "",
+		"image_soap":""
+	},
+	"subtitle" : {
+	"subtitle_whisky":"20% OFF whisky of the month",
+	"subtitle_oil":"10% OFF Organic Olive Oil",
+	"subtitle_soap":"30% OFF High-end Soap""
+	},
+	"price": {
+	"price_whisky": "Now 54$",
+	"price_oil": "Now 18$",
+	"price_soap": "Now 12$"
+	}
+	
+}
