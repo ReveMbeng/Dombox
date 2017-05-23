@@ -7,14 +7,14 @@
 		"image_soap":""
 	},
 	"subtitle" : {
-	"subtitle_whisky":"20% OFF whisky of the month",
-	"subtitle_oil":"10% OFF Organic Olive Oil",
-	"subtitle_soap":"30% OFF High-end Soap""
+	     "subtitle_whisky":"20% OFF whisky of the month",
+	     "subtitle_oil":"10% OFF Organic Olive Oil",
+	     "subtitle_soap":"30% OFF High-end Soap""
 	},
 	"price": {
-	"price_whisky": "Now 54$",
-	"price_oil": "Now 18$",
-	"price_soap": "Now 12$"
+	     "price_whisky": "Now 54$",
+	     "price_oil": "Now 18$",
+	     "price_soap": "Now 12$"
 	}
 	
 }
