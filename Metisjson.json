@@ -4,7 +4,8 @@
 	"images" : {
 		"image_whisky" : "https://java.sogeti.nl/JavaBlog/wp-content/uploads/2009/04/android_icon_256.png",
 		"image_oil" : "https://java.sogeti.nl/JavaBlog/wp-content/uploads/2009/04/android_icon_256.png",
-		"image_soap":"https://java.sogeti.nl/JavaBlog/wp-content/uploads/2009/04/android_icon_256.png"
+		"image_soap":"https://java.sogeti.nl/JavaBlog/wp-content/uploads/2009/04/android_icon_256.png",
+		"subtitle_whisky": "20% OFF whisky of the month"
 	}
 	
 	
