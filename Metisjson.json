@@ -2,9 +2,9 @@
 	"Title" : "Welcome to Metis,awesome to see you today! Please select your daily offer to get a coupn in your inbox", 
 	"Mail" : "You sent you a gift in your inbox",
 	"images" : {
-		"image_whisky" : "",
-		"image_oil" : "",
-		"image_soap":""
+		"image_whisky" : "https://java.sogeti.nl/JavaBlog/wp-content/uploads/2009/04/android_icon_256.png",
+		"image_oil" : "https://java.sogeti.nl/JavaBlog/wp-content/uploads/2009/04/android_icon_256.png",
+		"image_soap":"https://java.sogeti.nl/JavaBlog/wp-content/uploads/2009/04/android_icon_256.png"
 	},
 	"subtitle" : {
 	     "subtitle_whisky":"20% OFF whisky of the month",
