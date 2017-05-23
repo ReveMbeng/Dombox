@@ -7,7 +7,10 @@
 		"image_soap":"https://java.sogeti.nl/JavaBlog/wp-content/uploads/2009/04/android_icon_256.png",
 		"subtitle_whisky": "20% OFF whisky of the month",
 		"subtitle_oil" : "10% OFF Organic Olive Oil",
-	        "subtitle_soap" : "30% OFF High-end Soap"
+	        "subtitle_soap" : "30% OFF High-end Soap",
+		"price_whisky": "Now 54$",
+	        "price_oil": "Now 18$",
+	        "price_soap": "Now 12$"
 	}
 	
 	
