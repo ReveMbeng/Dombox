@@ -1,7 +1,7 @@
 [{
         "title": "Welcome to Metis,awesome to see you today! Please select your daily offer to get a coupon in your inbox",
 	 "mail": "You sent you a gift in your inbox",
-        "image": "http://api.androidhive.info/json/movies/1.jpg",
+        "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/whisky.png",
         "subtitle": "20% OFF whisky of the month",
 	"price":"Now 54$"
        
@@ -9,7 +9,7 @@
     {
         "title": "Welcome to Metis,awesome to see you today! Please select your daily offer to get a coupon in your inbox",
 	"mail": "You sent you a gift in your inbox",
-        "image": "http://api.androidhive.info/json/movies/2.jpg",
+        "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/oil.png",
         "subtitle": "10% OFF Organic Olive Oil",
         "price": "Now 18$"
         
@@ -17,7 +17,7 @@
     {
         "title": "Welcome to Metis,awesome to see you today! Please select your daily offer to get a coupon in your inbox",
 	"mail": "You sent you a gift in your inbox",
-        "image": "http://api.androidhive.info/json/movies/3.jpg",
+        "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/soap.png",
         "subtitle": "30% OFF High-end Soap",
         "price": "Now 12$"
        
