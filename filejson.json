@@ -21,4 +21,13 @@
         "subtitle": "30% OFF High-end Soap",
         "price": "Now 12$"
        
-    }]
+    },
+    {
+        "title": "Welcome to Metis,awesome to see you today! Please select your daily offer to get a coupon in your inbox",
+	"mail": "You sent you a gift in your inbox",
+        "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/soap.png",
+        "subtitle": "30% OFF High-end Soap",
+        "price": "Now 12$"
+       
+    }
+]
