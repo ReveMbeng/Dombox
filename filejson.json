@@ -5,7 +5,7 @@
         "subtitle": "20% OFF whisky of the month",
 	"price":"Now 54$",
 	"arrow":"https://raw.githubusercontent.com/ReveMbeng/Dombox/master/arrow.png",
-	"message":  "Renan,\n\nHai ricevuto il regalo -20 %\nValido solo "+s+".\n\nPer avere a portata di mano, a beneficio!"
+	"message":  "Renan,\n\nHai ricevuto il regalo -20 %\nValido solo \n\nPer avere a portata di mano, a beneficio!"
     },
     {
         "title": "Welcome to Metis,awesome to see you today! Please select your daily offer to get a coupon in your inbox",
