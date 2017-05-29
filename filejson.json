@@ -5,7 +5,8 @@
         "subtitle": "20% OFF whisky of the month",
 	"price":"Now 54$",
 	"arrow":"https://raw.githubusercontent.com/ReveMbeng/Dombox/master/arrow.png",
-	"message":  "Renan,\n\nHai ricevuto il regalo -20 %\nValido solo \n\nPer avere a portata di mano, a beneficio!"
+	"message":  "Renan,\n\nHai ricevuto il regalo -20 %\nValido solo \n\nPer avere a portata di mano, a beneficio!",
+	"objet_message": "Il vostro regalo"
     },
     {
         "title": "Welcome to Metis,awesome to see you today! Please select your daily offer to get a coupon in your inbox",
@@ -14,7 +15,8 @@
         "subtitle": "10% OFF Organic Olive Oil",
         "price": "Now 18$",
 	"arrow":"https://raw.githubusercontent.com/ReveMbeng/Dombox/master/arrow.png",
-	 "message": "Renan,\n\nHai ricevuto il regalo -10 %\nValido solo .\n\nPer avere a portata di mano, a beneficio!"
+	 "message": "Renan,\n\nHai ricevuto il regalo -10 %\nValido solo .\n\nPer avere a portata di mano, a beneficio!",
+	 "objet_message":"Il vostro regalo"
         
     },
     {
@@ -24,7 +26,8 @@
         "subtitle": "30% OFF High-end Soap",
         "price": "Now 12$",
 	 "arrow":"https://raw.githubusercontent.com/ReveMbeng/Dombox/master/arrow.png",
-	 "message":"Renan,\n\nHai ricevuto il regalo -30 %\nValido solo .\n\nPer avere a portata di mano, a beneficio!"
+	 "message":"Renan,\n\nHai ricevuto il regalo -30 %\nValido solo .\n\nPer avere a portata di mano, a beneficio!",
+	 "objet_message":"Il vostro regalo"
        
     }
 ]
