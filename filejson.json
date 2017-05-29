@@ -3,7 +3,8 @@
 	 "mail": "You sent you a gift in your inbox",
         "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/whisky.png",
         "subtitle": "20% OFF whisky of the month",
-	"price":"Now 54$"
+	"price":"Now 54$",
+	"arrow":"https://github.com/ReveMbeng/Dombox/blob/master/arrow.png"
        
     },
     {
@@ -11,7 +12,8 @@
 	"mail": "You sent you a gift in your inbox",
         "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/oil.png",
         "subtitle": "10% OFF Organic Olive Oil",
-        "price": "Now 18$"
+        "price": "Now 18$",
+	"arrow":"https://github.com/ReveMbeng/Dombox/blob/master/arrow.png"   
         
     },
     {
@@ -19,7 +21,8 @@
 	"mail": "You sent you a gift in your inbox",
         "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/soap.png",
         "subtitle": "30% OFF High-end Soap",
-        "price": "Now 12$"
+        "price": "Now 12$",
+	 "arrow":"https://github.com/ReveMbeng/Dombox/blob/master/arrow.png"
        
     },
     {
@@ -27,7 +30,8 @@
 	"mail": "You sent you a gift in your inbox",
         "image": "https://raw.githubusercontent.com/ReveMbeng/Dombox/master/soap.png",
         "subtitle": "30% OFF High-end Soap",
-        "price": "Now 12$"
+        "price": "Now 12$",
+	"arrow":"https://github.com/ReveMbeng/Dombox/blob/master/arrow.png"
        
     }
 ]
